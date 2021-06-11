@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAPEDITOR", "MAPEDITOR.csproj", "{BE55DFD4-1D15-43ED-B43A-6F4A1DE321B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE55DFD4-1D15-43ED-B43A-6F4A1DE321B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE55DFD4-1D15-43ED-B43A-6F4A1DE321B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE55DFD4-1D15-43ED-B43A-6F4A1DE321B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE55DFD4-1D15-43ED-B43A-6F4A1DE321B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A317518-0B81-4A92-B764-51CAB656B4B0}
+	EndGlobalSection
+EndGlobal
